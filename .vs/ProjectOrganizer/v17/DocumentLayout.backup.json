@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\oakan\\source\\repos\\ProjectOrganizer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9DE6190-E850-4D1D-8E34-B1540E50C271}|ProjectOrganizer\\ProjectOrganizer.csproj|c:\\users\\oakan\\source\\repos\\projectorganizer\\projectorganizer\\addprojectwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9DE6190-E850-4D1D-8E34-B1540E50C271}|ProjectOrganizer\\ProjectOrganizer.csproj|solutionrelative:projectorganizer\\addprojectwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9DE6190-E850-4D1D-8E34-B1540E50C271}|ProjectOrganizer\\ProjectOrganizer.csproj|c:\\users\\oakan\\source\\repos\\projectorganizer\\projectorganizer\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9DE6190-E850-4D1D-8E34-B1540E50C271}|ProjectOrganizer\\ProjectOrganizer.csproj|solutionrelative:projectorganizer\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9DE6190-E850-4D1D-8E34-B1540E50C271}|ProjectOrganizer\\ProjectOrganizer.csproj|c:\\users\\oakan\\source\\repos\\projectorganizer\\projectorganizer\\projectorganizer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D9DE6190-E850-4D1D-8E34-B1540E50C271}|ProjectOrganizer\\ProjectOrganizer.csproj|solutionrelative:projectorganizer\\projectorganizer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9DE6190-E850-4D1D-8E34-B1540E50C271}|ProjectOrganizer\\ProjectOrganizer.csproj|c:\\users\\oakan\\source\\repos\\projectorganizer\\projectorganizer\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9DE6190-E850-4D1D-8E34-B1540E50C271}|ProjectOrganizer\\ProjectOrganizer.csproj|solutionrelative:projectorganizer\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9DE6190-E850-4D1D-8E34-B1540E50C271}|ProjectOrganizer\\ProjectOrganizer.csproj|c:\\users\\oakan\\source\\repos\\projectorganizer\\projectorganizer\\settingswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9DE6190-E850-4D1D-8E34-B1540E50C271}|ProjectOrganizer\\ProjectOrganizer.csproj|solutionrelative:projectorganizer\\settingswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9DE6190-E850-4D1D-8E34-B1540E50C271}|ProjectOrganizer\\ProjectOrganizer.csproj|c:\\users\\oakan\\source\\repos\\projectorganizer\\projectorganizer\\settingswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D9DE6190-E850-4D1D-8E34-B1540E50C271}|ProjectOrganizer\\ProjectOrganizer.csproj|solutionrelative:projectorganizer\\settingswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9DE6190-E850-4D1D-8E34-B1540E50C271}|ProjectOrganizer\\ProjectOrganizer.csproj|c:\\users\\oakan\\source\\repos\\projectorganizer\\projectorganizer\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D9DE6190-E850-4D1D-8E34-B1540E50C271}|ProjectOrganizer\\ProjectOrganizer.csproj|solutionrelative:projectorganizer\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9DE6190-E850-4D1D-8E34-B1540E50C271}|ProjectOrganizer\\ProjectOrganizer.csproj|c:\\users\\oakan\\source\\repos\\projectorganizer\\projectorganizer\\addprojectwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D9DE6190-E850-4D1D-8E34-B1540E50C271}|ProjectOrganizer\\ProjectOrganizer.csproj|solutionrelative:projectorganizer\\addprojectwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\oakan\\source\\repos\\ProjectOrganizer\\ProjectOrganizer\\App.xaml.cs",
+              "RelativeDocumentMoniker": "ProjectOrganizer\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\oakan\\source\\repos\\ProjectOrganizer\\ProjectOrganizer\\App.xaml.cs",
+              "RelativeToolTip": "ProjectOrganizer\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T00:16:59.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProjectOrganizer",
+              "DocumentMoniker": "C:\\Users\\oakan\\source\\repos\\ProjectOrganizer\\ProjectOrganizer\\ProjectOrganizer.csproj",
+              "RelativeDocumentMoniker": "ProjectOrganizer\\ProjectOrganizer.csproj",
+              "ToolTip": "C:\\Users\\oakan\\source\\repos\\ProjectOrganizer\\ProjectOrganizer\\ProjectOrganizer.csproj",
+              "RelativeToolTip": "ProjectOrganizer\\ProjectOrganizer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-17T00:16:40.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SettingsWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\oakan\\source\\repos\\ProjectOrganizer\\ProjectOrganizer\\SettingsWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ProjectOrganizer\\SettingsWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\oakan\\source\\repos\\ProjectOrganizer\\ProjectOrganizer\\SettingsWindow.xaml.cs",
+              "RelativeToolTip": "ProjectOrganizer\\SettingsWindow.xaml.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwDsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T18:44:17.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SettingsWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\oakan\\source\\repos\\ProjectOrganizer\\ProjectOrganizer\\SettingsWindow.xaml",
+              "RelativeDocumentMoniker": "ProjectOrganizer\\SettingsWindow.xaml",
+              "ToolTip": "C:\\Users\\oakan\\source\\repos\\ProjectOrganizer\\ProjectOrganizer\\SettingsWindow.xaml",
+              "RelativeToolTip": "ProjectOrganizer\\SettingsWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-16T18:44:13.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\oakan\\source\\repos\\ProjectOrganizer\\ProjectOrganizer\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ProjectOrganizer\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\oakan\\source\\repos\\ProjectOrganizer\\ProjectOrganizer\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ProjectOrganizer\\MainWindow.xaml.cs",
+              "ViewState": "AgIAADUBAAAAAAAAAAAuwKsBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T18:19:27.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddProjectWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\oakan\\source\\repos\\ProjectOrganizer\\ProjectOrganizer\\AddProjectWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ProjectOrganizer\\AddProjectWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\oakan\\source\\repos\\ProjectOrganizer\\ProjectOrganizer\\AddProjectWindow.xaml.cs",
+              "RelativeToolTip": "ProjectOrganizer\\AddProjectWindow.xaml.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAQwJUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T19:24:31.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddProjectWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\oakan\\source\\repos\\ProjectOrganizer\\ProjectOrganizer\\AddProjectWindow.xaml",
+              "RelativeDocumentMoniker": "ProjectOrganizer\\AddProjectWindow.xaml",
+              "ToolTip": "C:\\Users\\oakan\\source\\repos\\ProjectOrganizer\\ProjectOrganizer\\AddProjectWindow.xaml",
+              "RelativeToolTip": "ProjectOrganizer\\AddProjectWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-16T19:23:56.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\oakan\\source\\repos\\ProjectOrganizer\\ProjectOrganizer\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ProjectOrganizer\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\oakan\\source\\repos\\ProjectOrganizer\\ProjectOrganizer\\MainWindow.xaml",
+              "RelativeToolTip": "ProjectOrganizer\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-16T19:37:06.443Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+﻿<Window x:Class="ProjectOrganizer.AddProjectWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Add Project" Height="600" Width="500"
+        WindowStartupLocation="CenterOwner">
+    <ScrollViewer VerticalScrollBarVisibility="Auto">
+        <StackPanel Margin="10">
+            <!-- Project Name Section -->
+            <GroupBox Header="Project Information" Margin="0,0,0,10">
+                <StackPanel Margin="5">
+                    <Label Content="Project Name:" />
+                    <TextBox x:Name="ProjectNameTextBox" Margin="0,0,0,10" />
+                </StackPanel>
+            </GroupBox>
+
+            <!-- Standard Paths Section (always visible but readonly) -->
+            <GroupBox Header="Standard Paths (Auto-created)" Margin="0,0,0,10">
+                <StackPanel Margin="5">
+                    <TextBlock Text="The following folders will be automatically created:" Margin="0,0,0,5" TextWrapping="Wrap"/>
+                    <ItemsControl Margin="10,0,0,0">
+                        <TextBlock Text="• Documents" />
+                        <TextBlock Text="• Images" />
+                        <TextBlock Text="• VMDK" />
+                        <TextBlock Text="• Adobe Projects" />
+                        <TextBlock Text="• Custom Folders" />
+                        <TextBlock Text="• Other" />
+                    </ItemsControl>
+                </StackPanel>
+            </GroupBox>
+
+            <!-- Custom Paths Section -->
+            <GroupBox Header="Custom Paths" Margin="0,0,0,10">
+                <StackPanel x:Name="CustomPathsPanel" Margin="5">
+                    <!-- Documents -->
+                    <Label Content="Custom Documents Path:" />
+                    <StackPanel Orientation="Horizontal" Margin="0,0,0,5">
+                        <TextBox x:Name="DocumentsPathTextBox" Width="350" Margin="0,0,5,0" />
+                        <Button Content="Browse" Width="60" Click="BrowseDocumentsPath_Click" />
+                    </StackPanel>
+
+                    <!-- Images -->
+                    <Label Content="Custom Images Path:" />
+                    <StackPanel Orientation="Horizontal" Margin="0,0,0,5">
+                        <TextBox x:Name="ImagesPathTextBox" Width="350" Margin="0,0,5,0" />
+                        <Button Content="Browse" Width="60" Click="BrowseImagesPath_Click" />
+                    </StackPanel>
+
+                    <!-- VMDK -->
+                    <Label Content="Custom VMDK Path:" />
+                    <StackPanel Orientation="Horizontal" Margin="0,0,0,5">
+                        <TextBox x:Name="VMDKPathTextBox" Width="350" Margin="0,0,5,0" />
+                        <Button Content="Browse" Width="60" Click="BrowseVMDKPath_Click" />
+                    </StackPanel>
+
+                    <!-- Adobe Projects -->
+                    <Label Content="Custom Adobe Projects Path:" />
+                    <StackPanel Orientation="Horizontal" Margin="0,0,0,5">
+                        <TextBox x:Name="AdobeProjectsPathTextBox" Width="350" Margin="0,0,5,0" />
+                        <Button Content="Browse" Width="60" Click="BrowseAdobeProjectsPath_Click" />
+                    </StackPanel>
+
+                    <!-- Custom Folders -->
+                    <Label Content="Custom Folders Path:" />
+                    <StackPanel Orientation="Horizontal" Margin="0,0,0,5">
+                        <TextBox x:Name="CustomFoldersPathTextBox" Width="350" Margin="0,0,5,0" />
+                        <Button Content="Browse" Width="60" Click="BrowseCustomFoldersPath_Click" />
+                    </StackPanel>
+
+                    <!-- Other -->
+                    <Label Content="Custom Other Path:" />
+                    <StackPanel Orientation="Horizontal" Margin="0,0,0,5">
+                        <TextBox x:Name="OtherPathTextBox" Width="350" Margin="0,0,5,0" />
+                        <Button Content="Browse" Width="60" Click="BrowseOtherPath_Click" />
+                    </StackPanel>
+                </StackPanel>
+            </GroupBox>
+
+            <!-- Save Button -->
+            <Button Content="Create Project" Click="SaveButton_Click" 
+                    Height="30" Margin="0,10,0,0" 
+                    Background="#FF007ACC" Foreground="White" />
+        </StackPanel>
+    </ScrollViewer>
+</Window>
